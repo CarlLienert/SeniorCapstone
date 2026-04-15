@@ -1,2 +1,7 @@
 Comparison,Mean,Std Dev
-Party 0 vs Party 1,0.057472,0.024283
+Party 0 vs Party 1,0.033191,0.00984
+Party 0 vs Party 2,0.079825,0.013421
+Party 0 vs Party 3,0.078612,0.013427
+Party 1 vs Party 2,0.079316,0.009387
+Party 1 vs Party 3,0.078283,0.007086
+Party 2 vs Party 3,0.011319,0.004629
